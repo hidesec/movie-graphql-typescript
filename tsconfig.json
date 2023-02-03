@@ -21,6 +21,9 @@
       "@interface/*": ["src/interface/*"],
       "@core/*": ["src/core/*"],
       "@models/*": ["src/models/*"],
+      "@resolver/*": ["src/resolver/*"],
+      "@services/*": ["src/services/*"],
+      "@dto/*": ["src/dto/*"],
     }
   }
 }
